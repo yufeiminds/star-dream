@@ -1,0 +1,24 @@
+{
+  "name": "StarDream",
+  "description": "A story board for dream of universe",
+  "main": "index.js",
+  "authors": [
+    "Yufei Li"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "https://github.com/yufeiminds/StarDream",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "waypoints": "^4.0.0",
+    "animate.css": "^3.5.1"
+  }
+}
